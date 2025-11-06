@@ -1,7 +1,7 @@
 Flask==2.3.3
 Flask-Cors
-SQLAlchemy==2.0.34
-psycopg2-binary==2.9.6
-requests==2.31.0
-python-dotenv==1.0.1
-google-generativeai==0.6.0
+SQLAlchemy
+psycopg2-binary
+requests
+python-dotenv
+google-generativeai
