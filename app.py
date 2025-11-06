@@ -98,4 +98,4 @@ if __name__ == "__main__":
     if os.environ.get("WERKZEUG_RUN_MAIN") == "true" or not app.debug:
         start_worker()
 
-    app.run(host='0.0.0.0', port=5550, debug=False)
+    app.run(host='0.0.0.0', port=5000, debug=False)
